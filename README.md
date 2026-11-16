@@ -44,11 +44,4 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuisGlauser&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGlauser&layout=compact&theme=dark)
-
----
-
 ⭐ Fique à vontade para explorar meus repositórios e entrar em contato!
